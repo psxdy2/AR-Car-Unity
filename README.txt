@@ -1,0 +1,6 @@
+This article will be the project is based on Unity, the author is: Yao Dongchen, if you want to use, the whole download package down, put in a folder with Unity open can, there are mainly MainScene and Menu two parts, Menu part is very simple, that is, to enter the game and view the game information and exit the game. As an augmented reality feature, the design allows players to view the yellow car, which includes left and right rotation, left and right movement, zoom in and out and reset, augmented reality in the future WEB3.0 era will have a revolutionary breakthrough, I hope this work can bring players a little inspiration to do augmented reality, by the way, it is worth mentioning that the sky box is added inside, so the file is relatively large. (Material resources introduced by the yellow car https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085)
+
+
+
+
+该文将项目是基于Unity制作，作者是：姚东辰，如果您想使用，整个下载打包下来，放在一个文件夹用Unity打开即可，里面主要有MainScene和Menu两部分，Menu部分很简陋，即是进入该游戏和查看游戏信息和退出游戏。MainScene部分是一个黄色汽车，作为增强现实的功能，设计中允许玩家查看黄色汽车，其中包括左右旋转，左右移动，放大缩小和重置，增强现实在未来WEB3.0时代将会有革命性突破，我希望这个作品能给玩家带来一点做增强现实的启示，顺便值得一提的是，里面加入了天空盒，所以文件比较大。（黄色汽车引入的素材资源https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085）
